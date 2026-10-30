@@ -41,7 +41,7 @@ Put these files next to `index.html` (they are referenced by relative path):
 | File | Used for |
 |------|----------|
 | `img.png` | About section photo |
-| `college.png`, `E-commerce.png`, `atlas.png`, `pathfinder.png` | Project thumbnails |
+| `college.png`, `E-commerce.png`, `HireNova.png`, `pathfinder.png` | Project thumbnails |
 | `Som_Singh_Resume_Revised.docx` | Resume button |
 
 ## Run locally
